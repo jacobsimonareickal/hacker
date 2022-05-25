@@ -6,4 +6,5 @@ A home automation project using ESP32 and micropython. This project lets you con
 ## Inventory Management In Java
 
 A invenetory management system built using Java. Implemented using Spring and Hibernate frameworks. This project helps to manage inventory of store items, keep track of the price, quantity and notify admins when items go out of stock.</br>
+<img src="assets/images/inv.png">
 
