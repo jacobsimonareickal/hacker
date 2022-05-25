@@ -1,5 +1,13 @@
-title: Jacob Simon Areickal
-description: I am currently working as a Java developer. A very passionate engineer interested in machine learning and artificial intelligence. 
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-hacker
+title: <p align="center"> Jacob Simon Areickal </p>
+logo: /assets/img/jacob.jpeg
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/jacob-simon-areickal">LinkedIn</a> |
+  <a href="https://github.com/jacobsimonareickal">GitHub</a>
+  
+  <br>   
+  I am cuurently working as Java develeoper in insurance domain. I am very passionate about Artificial intelligence and Machine Learning.
+  <br>
+  </p>
